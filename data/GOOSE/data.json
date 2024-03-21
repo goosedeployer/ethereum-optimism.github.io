@@ -1,0 +1,13 @@
+{
+    "name": "Goose",
+    "symbol": "GOOSE",
+    "decimals": 18,
+    "description": "Hello frogs, it's Goose time to shine!",
+    "website": "https://goosecoin.io",
+    "twitter": "@goosecoin_io",
+    "tokens": {
+        "base": {
+            "address": "0xe7828E5D74910B9354d1acde7DD1a7464eaD7131"
+        }
+    }
+}
